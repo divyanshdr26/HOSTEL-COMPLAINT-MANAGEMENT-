@@ -1,0 +1,8 @@
+1001|Aarav Sharma|B-201|Electrical|Pending|Ceiling fan is not working properly.
+1002|Riya Verma|B-314|Water|In Progress|Water supply is very low during the morning.
+1003|Aditya Singh|C-108|Food|Resolved|Food quality was poor during dinner.
+1004|Neha Patel|A-407|Wi-Fi|Pending|Wi-Fi connection is frequently disconnecting.
+1005|Rahul Kumar|C-215|Cleaning|Resolved|Washroom cleaning is not being done regularly.
+1006|Sneha Gupta|A-122|Furniture|In Progress|Study table drawer is damaged.
+1007|kk|334|Wi-Fi|Pending|ffdyfgu
+1008|Divyansh Chandra|334|Cleaning|Pending|not clean
